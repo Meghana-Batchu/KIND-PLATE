@@ -13,4 +13,4 @@ User can select various types of NGO for food donation. User can select how many
 
 Technology used for Front-End
 
-ReactJS CSS
+ReactJS, CSS
